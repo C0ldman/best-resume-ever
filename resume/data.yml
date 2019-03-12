@@ -9,40 +9,36 @@ about: Hi, my name is John Doe. I"m just about the most boring type of person yo
 position: Front-end Developer
 
 birth:
-  year: 1986
+  year: 20.09.1986
   location: Storozhynets
 
 experience:
 - company: Viseven
   position: Front-end developer
-  timeperiod: since April 2018
-  description: Programming and watching cute cat videos.
+  timeperiod: April 2018
+  description: Creating interactive presentations for different CLM's, email templates Development of interactive presentations using the Cobalt framework Development and fix of components for Cobalt Development of HTML emails • Development of interactive HTML5 presentation and applications; • Development of web components; • Creation of HTML emails; • WebKit HTML5/CSS3 & JavaScript solution for iPad apps; • Cross-browser sites development; • Bug fixing; • Planning and prototyping new applications; • Designing the architecture of the components of applications;  Customer interaction tools development, digital content, eDetailing; Pharmaceutical marketing and sales apps, mobile and HTML5 applications; Marketing Tools for CLM Veeva/Nexxus MI/Viseven  Working with Salesforce Working Veeva Vault, Veeva CRM, Veeva Approved Email Recording and editing step-by-step video instructions • Writing technical documentation  Mentoring newcomers
+Technologies: HTML, CSS, JavaScript (ES6), Vue, Vuex, Git, SASS, npm
   website: https://viseven.com
 
 - company: Медсервис
-  position: Engeneer
+  position: Engineer
   timeperiod: November 2010 - April 2018
-  description: Reparing medical equipment
+  description: Repair and maintenance, ensuring the health and safety of medical equipment, modernization of equipment, installation, configuration of new equipsment. Installing and configuring software for digital X-ray diagnostic systems and ultrasound diagnostic devices
 
 - company: Триада Авто
-  position: Engeneer
+  position: Engineer
   timeperiod: August 2007 - October 2010
-  description: Fulfillment of extremely important tasks.
+  description: Repair, replacement, installation, configuration of equipment - security systems, alarms, acoustic systems,computer diagnostics and electrical troubleshooting
 
 - company: Сонико-Украина
-  position: Engeneer
+  position: Engineer
   timeperiod: May 2006 - May 2007
   description: Reparing mobile phones SonyErricsson,Nokia, update software
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
-
-- degree: National Aviation University
+- degree: Bachelor degree
   timeperiod:  2003 -  2007
-  description: Major in Engineering, Kyiv, Ukraine.
+  description: Technical Systems Automation and Control Engineer, National Aviation University, Kyiv, Ukraine.
 
 # skill level goes 0 to 100
 skills:
