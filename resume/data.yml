@@ -1,11 +1,11 @@
-/* #*/ export const PERSON = `
+export const PERSON = `
 name:
   first: Yuriy
   middle:
   last: Ukrainets
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+# about: Hi, my name is John Doe. I"m just about the most boring type of person you could
+#        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
+#        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
 position: Front-end Developer
 
 birth:
@@ -16,8 +16,8 @@ experience:
 - company: Viseven
   position: Front-end developer
   timeperiod: April 2018
-  description: Creating interactive presentations for different CLM's, email templates Development of interactive presentations using the Cobalt framework Development and fix of components for Cobalt Development of HTML emails • Development of interactive HTML5 presentation and applications; • Development of web components; • Creation of HTML emails; • WebKit HTML5/CSS3 & JavaScript solution for iPad apps; • Cross-browser sites development; • Bug fixing; • Planning and prototyping new applications; • Designing the architecture of the components of applications;  Customer interaction tools development, digital content, eDetailing; Pharmaceutical marketing and sales apps, mobile and HTML5 applications; Marketing Tools for CLM Veeva/Nexxus MI/Viseven  Working with Salesforce Working Veeva Vault, Veeva CRM, Veeva Approved Email Recording and editing step-by-step video instructions • Writing technical documentation  Mentoring newcomers
-Technologies: HTML, CSS, JavaScript (ES6), Vue, Vuex, Git, SASS, npm
+  description: Creating interactive presentations for different CLM's, email templates; • Development of interactive presentations using the Cobalt framework; • Development and fix components for Cobalt; • Development of HTML emails; • Development of interactive HTML5 presentation and applications; • Cross-browser sites development; • Bug fixing; • Working with Salesforce, Veeva Vault, Veeva CRM, Veeva Approved Email; • Writing technical documentation; • Mentoring newcomers
+  Technologies: HTML, CSS, JavaScript (ES6), Vue, Vuex, Git, SASS, npm
   website: https://viseven.com
 
 - company: Медсервис
@@ -43,26 +43,30 @@ education:
 # skill level goes 0 to 100
 skills:
 - name: HTML5
-  level: 75
+  level: 90
 - name: CSS3
-  level: 75
+  level: 90
 - name: JavaScript
   level: 70
 - name: Node.js
-  level: 60
+  level: 70
 - name: VueJS
-  level: 60
+  level: 70
 - name: TypeScript
   level: 50
 
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Ukraine).
+knowledge: HTML5/CSS3, ES6, NodeJS, NPM, CSS preprocessors(SASS,LESS), VueJS, Firebase database.  Also proficient in Adobe Photoshop and Illustrator, grew up bilingual (English and Ukraine).
 
 projects:
-- name: best-resume-ever
-  platform: Vue
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: cobalt-fill
+  platform: NodeJS
+  description: Create localization,models,styles from HTML-file in cobalt presentations. Also check pictures for even dimensions and compress it.
+  url: https://github.com/c0ldman/CLI
+
+- name: Toodoo
+  platform: VueJS + Firebase
+  description: Create list of things and share it with other users.
+  url: https://github.com/c0ldman/vuefirebase
 
 hobbies:
 - name: Radio-controlled models
