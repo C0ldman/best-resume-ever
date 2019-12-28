@@ -16,24 +16,24 @@ experience:
 - company: Viseven
   position: Front-end developer
   timeperiod: April 2018
-  description: Creating interactive presentations for different CLM's, email templates; • Development of interactive presentations using the Cobalt framework; • Development and fix components for Cobalt; • Development of HTML emails; • Development of interactive HTML5 presentation and applications; • Cross-browser sites development; • Bug fixing; • Working with Salesforce, Veeva Vault, Veeva CRM, Veeva Approved Email; • Writing technical documentation; • Mentoring newcomers
+  description: Creating interactive presentations for different CLM's, email templates; • Development of interactive presentations using the Cobalt framework; • Development and fix components for Cobalt; • Development of HTML emails; • Development of interactive HTML5 presentation and applications; • Cross-browser sites development; • Bug fixing; • Working with Salesforce, Veeva Vault, Veeva CRM, Veeva Approved Email; • Writing technical documentation; • Mentoring newcomers.
   Technologies: HTML, CSS, JavaScript (ES6), Vue, Vuex, Git, SASS, npm
   website: https://viseven.com
 
-- company: Медсервис
+- company: Medservice
   position: Engineer
   timeperiod: November 2010 - April 2018
-  description: Repair and maintenance, ensuring the health and safety of medical equipment, modernization of equipment, installation, configuration of new equipsment. Installing and configuring software for digital X-ray diagnostic systems and ultrasound diagnostic devices
+  description: • Repair and maintenance of medical equipment; • Modernization of devices; • Installation and configuration of new equipment, digital X-ray diagnostic systems and ultrasound diagnostic devices.
 
-- company: Триада Авто
+- company: Triada auto
   position: Engineer
   timeperiod: August 2007 - October 2010
-  description: Repair, replacement, installation, configuration of equipment - security systems, alarms, acoustic systems,computer diagnostics and electrical troubleshooting
+  description: • Repair, replacement, installation, configuration of equipment - security systems, alarms, acoustic systems,computer diagnostics and electrical troubleshooting.
 
-- company: Сонико-Украина
+- company: Sonico-Ukraine
   position: Engineer
   timeperiod: May 2006 - May 2007
-  description: Reparing mobile phones SonyErricsson,Nokia, update software
+  description: • Reparing mobile phones SonyErricsson,Nokia, update software.
 
 education:
 - degree: Bachelor degree
@@ -46,7 +46,7 @@ skills:
   level: 90
 - name: CSS3
   level: 90
-- name: JavaScript
+- name: ES6
   level: 70
 - name: Node.js
   level: 70
@@ -54,19 +54,31 @@ skills:
   level: 70
 - name: TypeScript
   level: 50
+- name: NPM
+  level: 50
+- name: SASS,LESS
+  level: 50
+- name: Firebase
+  level: 50
+- name: intermediate English
+  level: 50
+- name: Illustrator
+  level: 50
+- name: Photoshop
+  level: 50
 
-knowledge: HTML5/CSS3, ES6, NodeJS, NPM, CSS preprocessors(SASS,LESS), VueJS, Firebase database.  Also proficient in Adobe Photoshop and Illustrator, grew up bilingual (English and Ukraine).
+# knowledge: HTML5/CSS3, ES6, NodeJS, NPM, CSS preprocessors(SASS,LESS), VueJS, Firebase database.  Also proficient in Adobe Photoshop and Illustrator, intermediate English.
 
 projects:
 - name: cobalt-fill
   platform: NodeJS
-  description: Create localization,models,styles from HTML-file in cobalt presentations. Also check pictures for even dimensions and compress it.
+  description: Add localizations,models,styles from HTML-file to cobalt presentations, check pictures for even dimensions (resize if needed) and compress it.
   url: https://github.com/c0ldman/CLI
 
 - name: Toodoo
   platform: VueJS + Firebase
-  description: Create list of things and share it with other users.
-  url: https://github.com/c0ldman/vuefirebase
+  description: Create to-do list and share it with other users.
+  url: https://github.com/c0ldman/vue-firebase
 
 hobbies:
 - name: Radio-controlled models
