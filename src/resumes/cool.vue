@@ -10,7 +10,7 @@
 
     <div class="content">
       <div class="content__left">
-        <div class="section">
+        <!-- <div class="section">
           <div class="section-headline">{{ lang.about }}</div>
 
           <div class="section-content section-content--plain">
@@ -19,7 +19,7 @@
             <br />
             {{ person.knowledge }}
           </div>
-        </div>
+        </div> -->
 
         <div v-if="person.skills" class="section">
           <div class="section-headline">{{ lang.skills }}</div>

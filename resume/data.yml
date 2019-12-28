@@ -28,12 +28,12 @@ experience:
 - company: Triada auto
   position: Engineer
   timeperiod: August 2007 - October 2010
-  description: • Repair, replacement, installation, configuration of equipment - security systems, alarms, acoustic systems,computer diagnostics and electrical troubleshooting.
+  description: • Repair, replacement, installation, configuration of equipment - security systems, alarms, acoustic systems, computer diagnostics and electrical troubleshooting.
 
 - company: Sonico-Ukraine
   position: Engineer
   timeperiod: May 2006 - May 2007
-  description: • Reparing mobile phones SonyErricsson,Nokia, update software.
+  description: • Reparing mobile phones SonyErricsson, Nokia, update software.
 
 education:
 - degree: Bachelor degree
@@ -72,7 +72,7 @@ skills:
 projects:
 - name: cobalt-fill
   platform: NodeJS
-  description: Add localizations,models,styles from HTML-file to cobalt presentations, check pictures for even dimensions (resize if needed) and compress it.
+  description: Add localizations, models, styles from HTML-file to cobalt presentations, check pictures for even dimensions (resize if needed) and compress it.
   url: https://github.com/c0ldman/CLI
 
 - name: Toodoo
