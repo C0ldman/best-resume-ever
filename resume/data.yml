@@ -15,7 +15,7 @@ birth:
 experience:
 - company: Viseven
   position: Front-end developer
-  timeperiod: April 2018
+  timeperiod: April 2018 - present
   description: Creating interactive presentations for different CLM's, email templates; • Development of interactive presentations using the Cobalt framework; • Development and fix components for Cobalt; • Development of HTML emails; • Development of interactive HTML5 presentation and applications; • Cross-browser sites development; • Bug fixing; • Working with Salesforce, Veeva Vault, Veeva CRM, Veeva Approved Email; • Writing technical documentation; • Mentoring newcomers.
   Technologies: HTML, CSS, JavaScript (ES6), Vue, Vuex, Git, SASS, npm
   website: https://viseven.com
@@ -50,6 +50,8 @@ skills:
   level: 70
 - name: Node.js
   level: 70
+- name: Gulp
+  level: 50
 - name: VueJS
   level: 70
 - name: TypeScript

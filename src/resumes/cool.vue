@@ -19,7 +19,7 @@
             <br />
             {{ person.knowledge }}
           </div>
-        </div> -->
+        </div>-->
 
         <div v-if="person.skills" class="section">
           <div class="section-headline">{{ lang.skills }}</div>
@@ -34,7 +34,7 @@
               <span class="squarred-grid-item">{{ skill.name }}</span>
             </a>
           </div>
-           <div class="hobbies-container">
+          <div class="hobbies-container">
             <span class="section-headline">Hobbies</span>
             <div class="hobbies-content">
               <a
@@ -43,7 +43,7 @@
                 class="hobby-item"
                 :href="hobby.url"
               >
-                <i v-if="hobby.iconClass" :class="hobby.iconClass + ' hobby-item__icon'"></i> 
+                <i v-if="hobby.iconClass" :class="hobby.iconClass + ' hobby-item__icon'"></i>
                 <span class="hobby-item__icon-label">{{ hobby.name }}</span>
               </a>
             </div>
@@ -310,9 +310,9 @@ a {
   }
 }
 
-.subheadline{
+.subheadline {
   margin-top: 15px;
-  margin-bottom:5px
+  margin-bottom: 5px;
 }
 
 .section-link {
