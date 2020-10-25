@@ -54,6 +54,8 @@ skills:
   level: 50
 - name: VueJS
   level: 70
+- name: React
+  level: 40
 - name: TypeScript
   level: 80
 - name: NPM
